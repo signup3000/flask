@@ -1,0 +1,12 @@
+stack_name: Projects/Sample/Flask/VPC/main
+arguments:
+     soa: jacktest.jiffyconfig.com
+     endpoints: 
+            - test 
+            - dev 
+            - web 
+     DockerProvider: docker.io
+     DockerUsername: signup3000
+     DockerConfigEnv: public
+     DockerRepoName: sample-flask
+     DockerEnvCred: jiffy/users/jacklee/default/docker
