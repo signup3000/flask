@@ -9,4 +9,3 @@ arguments:
      DockerUsername: signup3000
      DockerConfigEnv: public
      DockerRepoName: sample-flask
-     DockerEnvCred: jiffy/users/jacklee/default/docker
